@@ -1,0 +1,12 @@
+{
+    "bottom_shell_layers": "5",
+    "from": "User",
+    "inherits": "0.20mm Standard @Voron",
+    "is_custom_defined": "0",
+    "name": "0.20mm-Voron Settings @Voron",
+    "print_settings_id": "0.20mm-Voron Settings @Voron",
+    "sparse_infill_density": "40%",
+    "sparse_infill_pattern": "honeycomb",
+    "version": "2.2.0.1",
+    "wall_loops": "4"
+}

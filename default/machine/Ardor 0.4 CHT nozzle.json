@@ -1,0 +1,27 @@
+{
+    "from": "User",
+    "inherits": "Voron Trident 250 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_max_acceleration_x": [
+        "6000",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "6000",
+        "20000"
+    ],
+    "machine_max_acceleration_z": [
+        "350",
+        "200"
+    ],
+    "machine_max_speed_z": [
+        "15",
+        "12"
+    ],
+    "machine_start_gcode": "PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]\n; You can use following code instead if your PRINT_START macro support Chamber and print area bedmesh\n; PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] Chamber=[chamber_temperature] PRINT_MIN={first_layer_print_min[0]},{first_layer_print_min[1]} PRINT_MAX={first_layer_print_max[0]},{first_layer_print_max[1]}",
+    "name": "Ardor 0.4 CHT nozzle",
+    "nozzle_type": "brass",
+    "print_host": "ardor.local",
+    "printer_settings_id": "Ardor 0.4 CHT nozzle",
+    "version": "2.2.0.1"
+}

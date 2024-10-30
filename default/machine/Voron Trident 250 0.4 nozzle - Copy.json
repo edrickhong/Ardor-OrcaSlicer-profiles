@@ -1,0 +1,9 @@
+{
+    "from": "User",
+    "inherits": "Voron Trident 250 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Voron Trident 250 0.4 nozzle - Copy",
+    "print_host": "ardor.local",
+    "printer_settings_id": "Voron Trident 250 0.4 nozzle - Copy",
+    "version": "2.2.0.1"
+}

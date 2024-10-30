@@ -1,0 +1,31 @@
+{
+    "default_filament_colour": [
+        "#C061CB"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.947205"
+    ],
+    "filament_retraction_length": [
+        "0.2"
+    ],
+    "filament_settings_id": [
+        "Sparkle ASA"
+    ],
+    "filament_shrink": [
+        "99.09%"
+    ],
+    "filament_vendor": [
+        "Polyfaire"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic ASA",
+    "is_custom_defined": "0",
+    "name": "Sparkle ASA",
+    "pressure_advance": [
+        "0.042"
+    ],
+    "version": "2.2.0.1"
+}
